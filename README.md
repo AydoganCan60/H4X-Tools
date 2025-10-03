@@ -9,7 +9,7 @@ Toolkit for scraping, OSINT and more.
 
 Submit feature requests and bugs in the [issues](https://github.com/vil/H4X-Tools/issues) tab.
 
-![](https://github.com/AydoganCan60H4X-Tools/blob/master/img/gui-v0.3.3.png)
+![](https://github.com/AydoganCan60/H4X-Tools/blob/master/img/gui-v0.3.3.png)
 
 ### Looking for contributors!
 
